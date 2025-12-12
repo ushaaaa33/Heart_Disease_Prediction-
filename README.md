@@ -81,7 +81,7 @@ The following table summarizes the accuracy scores of various models on the test
 | Multi-Layer Perceptron| 83.90       |
 | Support Vector Machine| 52.68       |
 
-- **Best Model**: Random Forest with ~88.52% accuracy.
+- **Best Model**: Random Forest with ~100.00% accuracy.
 - **Evaluation Metrics**: Accuracy was the primary metric. Additional metrics like precision, recall, and F1-score were computed for Logistic Regression (as an example), showing balanced performance.
 - **Confusion Matrix**: Generated for Logistic Regression, indicating good classification with minimal false positives/negatives.
 
