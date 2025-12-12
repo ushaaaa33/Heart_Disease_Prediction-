@@ -73,13 +73,13 @@ The following table summarizes the accuracy scores of various models on the test
 
 | Model                  | Accuracy (%) |
 |------------------------|--------------|
-| Random Forest         | 88.52       |
-| Decision Tree         | 78.69       |
-| Gradient Boosting     | 81.97       |
-| Gaussian Naive Bayes  | 86.89       |
-| K-Nearest Neighbors   | 68.85       |
-| Multi-Layer Perceptron| 83.61       |
-| Support Vector Machine| 83.61       |
+| Random Forest         | 100.00      |
+| Decision Tree         | 87.80       |
+| Gradient Boosting     | 95.12       |
+| Gaussian Naive Bayes  | 83.41       |
+| K-Nearest Neighbors   | 75.12       |
+| Multi-Layer Perceptron| 83.90       |
+| Support Vector Machine| 52.68       |
 
 - **Best Model**: Random Forest with ~88.52% accuracy.
 - **Evaluation Metrics**: Accuracy was the primary metric. Additional metrics like precision, recall, and F1-score were computed for Logistic Regression (as an example), showing balanced performance.
